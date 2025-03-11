@@ -1,10 +1,17 @@
 Demo {
 hey akhil
 
+<<<<<<< Updated upstream
 
 public String m2()
 {
 // logic to fix bug 102
 }
 
+=======
+// logic to fix bud 100
+public void m1() {
+
+bug got fixed issue is resolved
+>>>>>>> Stashed changes
 }
