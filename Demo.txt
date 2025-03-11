@@ -1,3 +1,10 @@
 Demo {
 hey akhil
+
+
+public String m2()
+{
+// logic to fix bug 102
+}
+
 }
