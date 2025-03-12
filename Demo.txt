@@ -1,6 +1,8 @@
 Demo {
 hey akhil
 
+A2 is trying to push the changes in Demo.txt
+
 <<<<<<< Updated upstream
 
 public String m2()
