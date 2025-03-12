@@ -1,7 +1,11 @@
 public Hello{
+<<<<<<< HEAD
 
 // A1 working on the ssame file hello.txt this is his changes (2nd scenario where both working on the same file)
 
+=======
+//A1 pushed his changes in the hello.txt file (second scenario where both perosons working on the same file)
+>>>>>>> 92141ceed259a65003536a7e3dcca63b36a2ea93
 A1 added his changes to git hub
 this is akhil reddy nemali i have modified the file can other developers please look into it
 
