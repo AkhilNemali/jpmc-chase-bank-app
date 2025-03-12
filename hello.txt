@@ -1,5 +1,5 @@
 public Hello{
-
+//A1 pushed his changes in the hello.txt file (second scenario where both perosons working on the same file)
 A1 added his changes to git hub
 this is akhil reddy nemali i have modified the file can other developers please look into it
 
